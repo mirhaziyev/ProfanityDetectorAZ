@@ -1,1 +1,1 @@
-from ProfanityDetector.detector import detector
+from DetectorBot.detector import detector
